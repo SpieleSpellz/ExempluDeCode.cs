@@ -14,7 +14,7 @@ public float ani = 10f;
 public bool isCool;   //asta bool e un tip de date care poate fi TRUE sau FALSE ,daca nu declaram nimic e fals
 public bool isNotCool = true; // acum e true
 public bool isNotCoolAtAll = false;
-
+//aici am si declarat variabila am si dat valoare
 public string nume = "Acesta este un sir de caractere,poti pune orice aici intre ghilimele";
 
 //acum dam valori variabilelor
